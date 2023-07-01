@@ -6,7 +6,7 @@ This project provides a step-by-step process of building a Home price prediction
 
 The project follows the following steps:
 
-1. Building a model using scikit-learn and linear regression with the Bangalore home prices dataset from [Kaggle](kaggle_dataset_link).
+1. Building a model using scikit-learn and linear regression with the Bangalore home prices dataset from [Kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data).
 2. Writing a Python Flask server that uses the trained model to serve HTTP requests.
 3. Creating a website using HTML, CSS, and JavaScript that allows users to enter home square footage, bedrooms, etc., and retrieves the predicted price by calling the Flask server.
 
@@ -28,7 +28,8 @@ The project uses the following technologies and tools:
 
 The image below shows an example output of the prediction:
 
-![Prediction Output](prediction_output.png)
+![Prediction Output](https://github.com/sdrahmath/Home-Price-Prediction/assets/107697922/c3993d78-6dd1-4f35-b25f-332063a7f75f)
+
 
 ## Conclusion
 
@@ -36,4 +37,6 @@ This project provides a practical implementation of building a real estate price
 
 For more detailed information about each step of the project, please refer to the individual files and code comments.
 
-[kaggle_dataset_link]: <Insert Kaggle dataset link here>
+
+## Kaggle Data set link
+(https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
