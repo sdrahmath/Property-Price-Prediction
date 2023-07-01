@@ -39,4 +39,4 @@ For more detailed information about each step of the project, please refer to th
 
 
 ## Kaggle Data set link
-(https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
+(https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
