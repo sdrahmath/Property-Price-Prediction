@@ -4,7 +4,7 @@ This project provides a step-by-step process of building a Property price predic
 
 # Property Price Prediction with Linear Regression
 
-Linear regression is a supervised machine learning algorithm used for predicting a continuous target variable based on one or more input features. It assumes a linear relationship between the input variables and the target variable.
+Linear regression is a supervised machine learning algorithm used for predicting a continuous target variable based on one or more input features. It assumes a linear relationship between the input variables and the target variable. In other words, it aims to find the best-fitting line that minimizes the difference between the predicted and actual values.
 
 ## Problem Statement
 
