@@ -58,7 +58,7 @@ The project uses the following technologies and tools:
 
 The image below shows an example output of the prediction:
 
-![Prediction Output](https://github.com/sdrahmath/Property-Price-Prediction/blob/main/BHP/output.png)
+![Prediction Output](https://github.com/sdrahmath/Property-Price-Prediction/blob/main/BHP/model/output.png)
 
 
 ## Conclusion
