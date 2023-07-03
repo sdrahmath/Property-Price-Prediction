@@ -2,7 +2,7 @@
 
 This project provides a step-by-step process of building a Property price prediction website. The aim is to create a model using scikit-learn and linear regression, using the Bangalore Property prices dataset from Kaggle. The project also involves developing a Python Flask server to serve HTTP requests and a website built with HTML, CSS, and JavaScript for user interaction.
 
-# Property Price Prediction with Linear Regression
+## Property Price Prediction with Linear Regression
 
 Linear regression is a supervised machine learning algorithm used for predicting a continuous target variable based on one or more input features. It assumes a linear relationship between the input variables and the target variable. In other words, it aims to find the best-fitting line that minimizes the difference between the predicted and actual values.
 
